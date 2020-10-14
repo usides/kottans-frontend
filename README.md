@@ -8,7 +8,7 @@ Repo for Kottans admission cource
 - Linux CLI, and HTTP
 - Git Collaboration
 
-**Extra tasks**
+**Extra tasks:**
 
 - [BagName generator](https://usides.github.io/BagName/) - Spontaneous task from Kottans Telegram group
 
@@ -41,7 +41,7 @@ I have only surface knowledge about HTTP protocol, and these articles revealed s
 
 ## Git Collaboration
 
-[GitHub & Collaboration - finished Udacity course](https://github.com/usides/kottans-frontend/blob/main/task_git_collaboration/2020-10-14_15-42.png?raw=true)
+* [GitHub & Collaboration - finished Udacity course](https://github.com/usides/kottans-frontend/blob/main/task_git_collaboration/2020-10-14_15-42.png?raw=true)
 
 **Feedback:**
 
