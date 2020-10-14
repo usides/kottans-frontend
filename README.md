@@ -23,6 +23,7 @@ I had some basic knowledge about Git but after these series of lessons I enhance
 ## Git Collaboration
 
 [GitHub & Collaboration - finished Udacity course](https://github.com/usides/kottans-frontend/blob/main/task_git_collaboration/2020-10-14_15-42.png?raw=true)
+
 This course was practical and helpful as I didn't have the collaboration experience on GitHub before.
 
 1. I managed to set up an SSL connection to GitHub
