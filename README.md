@@ -10,7 +10,7 @@ Repo for Kottans admission cource
 
 **Extra tasks**
 
-- [BagName generator](https://usides.github.io/BagName/)
+- [BagName generator](https://usides.github.io/BagName/) - Spontaneous task from Kottans Telegram group
 
 ## Git Basics
 
