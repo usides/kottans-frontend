@@ -2,29 +2,50 @@
 
 Repo for Kottans admission cource
 
+**Completed tasks:**
+
+- Git Basics
+- Linux CLI, and HTTP
+- Git Collaboration
+
+**Extra tasks**
+
+- [BagName generator](https://usides.github.io/BagName/)
+
 ## Git Basics
 
-I had some basic knowledge about Git but after these series of lessons I enhanced my knowlege.
+**Feedback:**
 
-1. I configurated terminal for convinient use of Git;
-2. Understood how logically split commits and name them properly;
-3. Found new Git commands that I haven't used before (revert and reset).
+I had some basic knowledge about Git but after these series of lessons I enhanced my knowlege:
+
+- I configurated terminal for convinient use of Git
+- Understood how logically split commits and name them properly
+- Found new Git commands that I haven't used before (revert and reset)
 
 ## Linux CLI, and HTTP
 
-1. I have been using bash for a long time, so I didn't find any new info in the first task. But I liked that this task has a game-style approach and a "virtual" bash environment. It should be useful for people who started to work with the terminal recently.
-2. I have only surface knowledge about HTTP protocol, and these articles revealed some points, but I still don't truly understand most of them. It should be more clear when I connect this knowledge with practical work.
+- [Linux Survival (1 module)](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-04.png?raw=true)
+- [Linux Survival (2 module)](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-23.png?raw=true)
+- [Linux Survival (3 module)](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-38.png?raw=true)
+- [Linux Survival (4 module)](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-53.png?raw=true)
 
-![Image of Yaktocat](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-04.png?raw=true)
-![Image of Yaktocat](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-23.png?raw=true)
-![Image of Yaktocat](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-38.png?raw=true)
-![Image of Yaktocat](https://github.com/usides/kottans-frontend/blob/main/task_linux_cli/2020-10-13_16-53.png?raw=true)
+**Feedback:**
+
+- **Linux Survival**
+
+I have been using bash for a long time, so I didn't find any new info in the first task. But I liked that this task has a game-style approach and a "virtual" bash environment. It should be useful for people who started to work with the terminal recently.
+
+- **HTTP protocol**
+
+I have only surface knowledge about HTTP protocol, and these articles revealed some points, but I still don't truly understand most of them (caching, authentication). It should be more clear when I connect this knowledge with practical work.
 
 ## Git Collaboration
 
 [GitHub & Collaboration - finished Udacity course](https://github.com/usides/kottans-frontend/blob/main/task_git_collaboration/2020-10-14_15-42.png?raw=true)
 
+**Feedback:**
+
 This course was practical and helpful as I didn't have the collaboration experience on GitHub before.
 
-1. I managed to set up an SSL connection to GitHub
-2. Understood how to work with upstream branches, create forks, and use commands like fetch and rebase.
+- I managed to set up an SSL connection to GitHub
+- Understood how to work with upstream branches, create forks, and use commands like fetch and rebase
