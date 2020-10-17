@@ -7,6 +7,7 @@ Repo for Kottans admission cource
 - Git Basics
 - Linux CLI, and HTTP
 - Git Collaboration
+- Intro to HTML and CSS
 
 **Extra tasks:**
 
@@ -41,7 +42,7 @@ I have only surface knowledge about HTTP protocol, and these articles revealed s
 
 ## Git Collaboration
 
-* [GitHub & Collaboration - finished Udacity course](https://github.com/usides/kottans-frontend/blob/main/task_git_collaboration/2020-10-14_15-42.png?raw=true)
+- [Udacity - GitHub & Collaboration](https://github.com/usides/kottans-frontend/blob/main/task_git_collaboration/2020-10-14_15-42.png?raw=true)
 
 **Feedback:**
 
@@ -49,3 +50,25 @@ This course was practical and helpful as I didn't have the collaboration experie
 
 - I managed to set up an SSL connection to GitHub
 - Understood how to work with upstream branches, create forks, and use commands like fetch and rebase
+
+## Intro to HTML and CSS
+
+- [Udacity - Intro to HTML and CSS](https://github.com/usides/kottans-frontend/blob/main/task_html_css_intro/2020-10-15_11-25.png?raw=true)
+- [Codecademy - Learn HTML](https://github.com/usides/kottans-frontend/blob/main/task_html_css_intro/2020-10-16_11-02.png?raw=true)
+- [Codecademy - Learn CSS](https://github.com/usides/kottans-frontend/blob/main/task_html_css_intro/2020-10-17_17-11.png?raw=true)
+
+**Feedback:**
+
+- Udacity - Intro to HTML and CSS
+
+  Information in this subtask wasn't new for me, but this video is good to get a general understanding of HTML and CSS for newcomers.
+
+- Codecademy - Learn HTML
+
+  This subtask has more deep knowledge base about HTML.<br />
+  I refreshed my knowledge about tables and forms.
+
+- Codecademy - Learn CSS
+
+  Making this subtask, I improved my knowledge about transitions, grid systems, and **!important** declaration. <br />
+  All this knowledge will be useful.
