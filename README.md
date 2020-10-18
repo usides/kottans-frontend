@@ -8,6 +8,7 @@ Repo for Kottans admission cource
 - Linux CLI, and HTTP
 - Git Collaboration
 - Intro to HTML and CSS
+- Responsive Web Design
 
 **Extra tasks:**
 
@@ -72,3 +73,18 @@ This course was practical and helpful as I didn't have the collaboration experie
 
   Making this subtask, I improved my knowledge about transitions, grid systems, and **!important** declaration. <br />
   All this knowledge will be useful.
+
+## Responsive Web Design
+
+- [Udacity - Responsive Web Design Fundamentals](https://github.com/usides/kottans-frontend/blob/main/task_responsive_web_design/2020-10-18_14-13.png?raw=true)
+- [Flexbox Froggy](https://github.com/usides/kottans-frontend/blob/main/task_responsive_web_design/2020-10-18_14-46.png?raw=true)
+
+**Feedback:**
+
+- Udacity - Intro to HTML and CSS
+
+  I haven't found a lot of new information in this course but I refreshed my knowledge about Media Queries and Breakpoints.
+
+- Flexbox Froggy
+
+  It was a good game to practice my CSS Flexbox skill. I enjoyed it.
