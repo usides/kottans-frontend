@@ -88,3 +88,9 @@ This course was practical and helpful as I didn't have the collaboration experie
 - Flexbox Froggy
 
   It was a good game to practice my CSS Flexbox skill. I enjoyed it.
+
+## HTML & CSS practice: Hooli-style Popup
+
+The goal of this task was to create a popup feature using only CSS and HTML technologies.
+
+[Meowler SE page - DEMO](https://usides.github.io/meoowler/)
