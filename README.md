@@ -94,3 +94,18 @@ This course was practical and helpful as I didn't have the collaboration experie
 The goal of this task was to create a popup feature using only CSS and HTML technologies.
 
 [Meowler SE page - DEMO](https://usides.github.io/meoowler/)
+
+## JavaScript Basics
+
+- [Udacity - Intro to JavaScript](https://github.com/usides/kottans-frontend/blob/main/task_js_basics/2020-10-22_15-37.png?raw=true)
+- [FCC - JavaScript Algorithms and Data Structures Certification](https://github.com/usides/kottans-frontend/blob/main/task_js_basics/2020-10-27_14-07.png?raw=true)
+
+**Feedback:**
+
+- Udacity - Intro to JavaScript
+
+  Information in this course wasn't new for me, but it was good to refresh the basics.
+
+- FCC - JavaScript Algorithms and Data Structures Certification
+
+  Tasks from the FCC course were useful. I learned new information regarding ES6 (Destructuring Assignment, Rest parameter, Spread) and Functional Programming. Intermediate Algorithm Scripting was a fun challenge for me, especially algorithms based on regular expressions. Thanks to these tasks, I learned new functions that work with regular expressions (test, replace). I need to practice with regex more as it's a super-powerful tool.
