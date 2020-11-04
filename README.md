@@ -9,6 +9,8 @@ Repo for Kottans admission cource
 - Git Collaboration
 - Intro to HTML and CSS
 - Responsive Web Design
+- JavaScript Basics
+- Document Object Model
 
 **Extra tasks:**
 
