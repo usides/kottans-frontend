@@ -109,3 +109,21 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 - FCC - JavaScript Algorithms and Data Structures Certification
 
   Tasks from the FCC course were useful. I learned new information regarding ES6 (Destructuring Assignment, Rest parameter, Spread) and Functional Programming. Intermediate Algorithm Scripting was a fun challenge for me, especially algorithms based on regular expressions. Thanks to these tasks, I learned new functions that work with regular expressions (test, replace). I need to practice with regex more as it's a super-powerful tool.
+
+## Document Object Model
+
+- [Udacity - JavaScript and the DOM](https://github.com/usides/kottans-frontend/blob/main/task_js_dom/2020-11-03_20-17.png?raw=true)
+- [FCC - JavaScript Algorithms and Data Structures Certification (12 - 18)](https://github.com/usides/kottans-frontend/blob/main/task_js_dom/2020-10-30_13-38.png?raw=true)
+- [Intercatpol - DEMO](https://usides.github.io/intercatpol/)
+
+**Feedback:**
+
+- Udacity - JavaScript and the DOM
+
+  I got a lot of useful information from this course.
+  I understood how inheritance works (ex. EventTarget <- Node <- Elemet) and how I can optimize performance.
+  Reflow and Repaint processes were also new for me.
+
+- FCC - JavaScript Algorithms and Data Structures Certification (12 - 18)
+
+  It took some time but practice made it easier than last time.
