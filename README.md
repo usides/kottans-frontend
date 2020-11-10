@@ -13,6 +13,7 @@ Repo for Kottans admission cource
 - Document Object Model
 - Building a Tiny JS World
 - Object oriented JS
+- OOP exercise
 
 **Extra tasks:**
 
@@ -147,3 +148,7 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 - Udacity - Object-Oriented JavaScript
 
   This information was new to me. It was breakthrough to learn information about the Execution context and Closures. I learned a lot about the inheritance pattern and used it for frogger-game exercise.
+
+## OOP exercise
+
+- [DEMO](https://usides.github.io/a-tiny-JS-world/)
