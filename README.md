@@ -11,6 +11,8 @@ Repo for Kottans admission cource
 - Responsive Web Design
 - JavaScript Basics
 - Document Object Model
+- Building a Tiny JS World
+- Object oriented JS
 
 **Extra tasks:**
 
@@ -114,7 +116,7 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 
 ## Document Object Model
 
-- [Udacity - JavaScript and the DOM](https://github.com/usides/kottans-frontend/blob/main/task_js_dom/2020-11-03_20-17.png?raw=true)
+- [Udacity - JavaScript and the DOM](https://github.com/usides/kottans-frontend/blob/main/task_js_dom/2020-10-30_11-24.png?raw=true)
 - [FCC - JavaScript Algorithms and Data Structures Certification (12 - 18)](https://github.com/usides/kottans-frontend/blob/main/task_js_dom/2020-10-30_13-38.png?raw=true)
 - [Intercatpol - DEMO](https://usides.github.io/intercatpol/)
 
@@ -129,3 +131,19 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 - FCC - JavaScript Algorithms and Data Structures Certification (12 - 18)
 
   It took some time but practice made it easier than last time.
+
+## Building a Tiny JS World
+
+- [DEMO](https://usides.github.io/a-tiny-JS-world/)
+
+## Object oriented JS
+
+- [Udacity - Object-Oriented JavaScript](https://github.com/usides/kottans-frontend/blob/main/task_js_oop/2020-11-03_20-17.png?raw=true)
+- [Frogger-game DEMO](https://usides.github.io/a-tiny-JS-world/)
+- [Codewars](https://www.codewars.com/users/usides)
+
+  **Feedback:**
+
+- Udacity - Object-Oriented JavaScript
+
+  This information was new to me. It was breakthrough to learn information about the Execution context and Closures. I learned a lot about the inheritance pattern and used it for frogger-game exercise.
