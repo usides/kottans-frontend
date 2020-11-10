@@ -139,7 +139,7 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 ## Object oriented JS
 
 - [Udacity - Object-Oriented JavaScript](https://github.com/usides/kottans-frontend/blob/main/task_js_oop/2020-11-03_20-17.png?raw=true)
-- [Frogger-game DEMO](https://usides.github.io/a-tiny-JS-world/)
+- [Frogger-game DEMO](https://usides.github.io/frontend-nanodegree-arcade-game/)
 - [Codewars](https://www.codewars.com/users/usides)
 
   **Feedback:**
