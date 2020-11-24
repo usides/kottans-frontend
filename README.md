@@ -14,6 +14,8 @@ Repo for Kottans admission cource
 - Building a Tiny JS World
 - Object oriented JS
 - OOP exercise
+- Memory pair game
+- Friends App
 
 **Extra tasks:**
 
@@ -152,3 +154,11 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 ## OOP exercise
 
 - [DEMO](https://usides.github.io/a-tiny-JS-world/)
+
+## Memory pair game
+
+- [DEMO](https://usides.github.io/intercatpol-memory-trainer/)
+
+## Friends App
+
+- [DEMO](https://usides.github.io/patbud/)
