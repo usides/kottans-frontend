@@ -9,6 +9,7 @@ Repo for Kottans admission cource
 - Git Collaboration
 - Intro to HTML and CSS
 - Responsive Web Design
+- HTML & CSS practice: Hooli-style Popup
 - JavaScript Basics
 - Document Object Model
 - Building a Tiny JS World
@@ -100,7 +101,7 @@ This course was practical and helpful as I didn't have the collaboration experie
 
 The goal of this task was to create a popup feature using only CSS and HTML technologies.
 
-[Meowler SE page - DEMO](https://usides.github.io/meoowler/)
+[Meoowler SE page - DEMO](https://usides.github.io/meoowler/)
 
 ## JavaScript Basics
 
@@ -157,8 +158,8 @@ The goal of this task was to create a popup feature using only CSS and HTML tech
 
 ## Memory pair game
 
-- [DEMO](https://usides.github.io/intercatpol-memory-trainer/)
+- [Intercatpol memory trainer - DEMO](https://usides.github.io/intercatpol-memory-trainer/)
 
 ## Friends App
 
-- [DEMO](https://usides.github.io/patbud/)
+- [PatBud - DEMO](https://usides.github.io/patbud/)
